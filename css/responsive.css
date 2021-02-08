@@ -192,18 +192,13 @@
 }
 .banner-text{
   height: 63vh;
-}
-.desc {
+}.desc {
     width: 100%;
     text-align: center;
 }
 .icon1 i {
     width: 5%;
     font-size: 28px;
-}
-.icon1 {
-    margin-top: 0px;
-    margin-bottom: 10px;
 }
 .section2 ul li {
     display: inline-block;
@@ -234,8 +229,11 @@
 .photo1-desc p {
   width: 100%;
 }
-.icon-1{
-  margin: auto;
+.icon1{
+    margin: auto;
+    letter-spacing: 29px ;
+    margin-top: 0px ;
+    margin-bottom: 10px ;
 }
 .icon-2{
   margin: auto;
@@ -273,6 +271,7 @@
 }
 ul {
     padding-left: 0px;
+    text-align: center;
 }
 .text-price3 {
     margin-right: 0px;
